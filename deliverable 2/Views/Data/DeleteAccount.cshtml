@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DeleteAccount</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="DIV">
+        <h1>Delete my Account</h1> 
+        <p>Deleting your account means that you will nolonger be able to access any of your data that was captured by out system, and you will be removed from this system</p>
+        <h4>I understand the abovementioned statement</h4><input type="checkbox" value="required" />
+        <br />
+        <a href="@Url.Action("Account","Data")">Back to account page</a>
+        <br />
+        @using (Html.BeginForm("Login", "Data"))
+        {   
+                 <button>Delete my account</button>
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,37 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Quiz</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="DIV"> 
+        <a href="@Url.Action("QS", "Data")" style="float:right">Quiz Stats</a>
+        <h1>Select your quiz subject</h1>
+        <p>Please note that the quizzes below will contribute to your progress marks. Only one attempt is permitted per quiz.</p>
+        <button>Diversity</button>
+        <br />
+        <button>Finances</button>
+        <br />
+        <button>Math</button>
+        <br />
+        <button>Email etiquette</button>
+        <br />
+        <button>Rights</button>
+        <br />
+        <button>Computer Skills</button>
+        <br />
+        <button>English</button>
+        <br />
+        <a href="@Url.Action("MainMenu","Data")">Return to Main Menu page.</a>
+
+    </div>
+</body>
+</html>

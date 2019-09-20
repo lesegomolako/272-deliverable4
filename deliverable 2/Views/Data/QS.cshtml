@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>QS</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="DIV">
+        <img src="http://icons.iconarchive.com/icons/avosoft/warm-toolbar/256/print-icon.png" alt="Print Icon" width="25" height="25" style="float:left" />
+        <br />
+        <br />
+        <table style="text-align:center; width:100%">
+            <tr>
+                <th colspan="2">Quizes completed:</th>
+                <th >7/20</th>
+            </tr>
+            <tr>
+                <th colspan="2">Passed:</th>
+                <th>7</th>
+            </tr>
+            <tr>
+                <th colspan="2">Fails:</th>
+                <th>0</th>
+            </tr>
+            <tr>
+                <th colspan="2">Quiz Averages:</th>
+                <th>42%</th>
+            </tr>
+            
+
+        </table>
+
+      
+        <a href="@Url.Action("Quiz", "Data")">Back to Quiz</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="DIV"> 
+        <h1>Login</h1>
+        
+        <label>Username:</label><input type="text" />
+        <br />
+        <label>Password:</label><input type="password" />
+        <br>
+        <br />
+        
+        @using (Html.BeginForm("MainMenu", "Data"))
+        {
+        <button type="submit">LOGIN</button>
+        }
+        <br />
+        <a href="@Url.Action("SignUp","Data")">Sign Up</a>
+
+    </div>
+</body>
+</html>

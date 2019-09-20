@@ -1,0 +1,60 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SubjectContent</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="DIV"> 
+        <h1>Subjects</h1>
+
+        @using (Html.BeginForm("Diversity", "Data"))
+        {
+            <button type="submit">Diversity</button>
+
+        }
+        <br />
+        @using (Html.BeginForm("Finances", "Data"))
+        {
+            <button type="submit">Finances</button>
+        }
+        <br />
+        @using (Html.BeginForm("Math", "Data"))
+        {
+            <button type="submit">Math</button>
+
+        }
+        <br />
+        @using (Html.BeginForm("EmailEtiquette", "Data"))
+        {
+            <button type="submit">Email Etiquette</button>
+        }
+        <br />
+        @using (Html.BeginForm("Rights", "Data"))
+        {
+            <button type="submit">Rights</button>
+        }
+        <br />
+        @using (Html.BeginForm("ComputerSkills", "Data"))
+        {
+            <button type="submit">Computer Skills</button>
+        }
+        <br />
+        @using (Html.BeginForm("English", "Data"))
+        {
+            <button type="submit">English</button>
+        }
+        <br />
+        <a href="@Url.Action("MainMenu", "Data")">Return to main menu</a>
+
+
+    </div>
+</body>
+</html>

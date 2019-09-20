@@ -1,0 +1,51 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PM</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body >
+    <div class="DIV">
+         <img src="http://icons.iconarchive.com/icons/avosoft/warm-toolbar/256/print-icon.png" alt="Print Icon" width="25" height="25" style="float:left"/>
+        <br />
+        <br />
+        <table style="text-align:center; border-style:solid; width:100%"  >
+            <tr style="border-style:solid; width:150px">
+                <th colspan="4" style="border-style:solid; width:150px">Subjects</th>
+                <th style="border-style:solid; width:150px">Mark</th>
+            </tr>
+            <tr style="border-style:solid; width:150px">
+                <td colspan="4">Maths</td>
+                <td>60%</td>
+            </tr>
+            <tr style="border-style:solid; width:150px">
+                <td colspan="4">Rights</td>
+                <td>70%</td>
+            </tr>
+            <tr style="border-style:solid; width:150px">
+                <td colspan="4">Diversity</td>
+                <td>60%</td>
+            </tr>
+            <tr style="border-style:solid; width:150px">
+                <td colspan="4">Finances</td>
+                <td>71%</td>
+            </tr>
+            <tr style="border-style:solid; width:150px">
+                <td colspan="4">Email Ettiquete</td>
+                <td>65%</td>
+            </tr>
+          
+        </table>
+
+        <p >Overall Average: 71% </p>
+        <a href="@Url.Action("MainMenu", "Data")">Back to main menu</a>
+    </div>
+</body>
+</html>

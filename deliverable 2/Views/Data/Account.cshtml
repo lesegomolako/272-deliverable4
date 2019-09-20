@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Account</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="DIV"> 
+        <h1>Account</h1>
+        @using (Html.BeginForm("ChangePassword", "Data"))
+        {
+        <button>Change Password</button>
+        }
+        <br />
+        @using (Html.BeginForm("UpdateEmail", "Data"))
+        {
+        <button>Update email</button>
+        }
+        <br />
+        @using (Html.BeginForm("DeleteAccount", "Data"))
+        {
+            <button type="submit">Delete my account</button>
+        }
+        <br />
+        @using (Html.BeginForm("MainMenu", "Data"))
+        {
+        <button>Return to main screen</button>
+        }
+        <br />
+        @using (Html.BeginForm("Login", "Data"))
+        {
+            <button type="submit">Log Out</button>
+        }
+        <br />
+    </div>
+</body>
+</html>

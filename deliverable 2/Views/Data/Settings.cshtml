@@ -1,0 +1,43 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Settings</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="DIV"> 
+        <h1>Settings</h1>
+
+
+        @using (Html.BeginForm("Account", "Data"))
+        {
+            <button type="submit">Account</button>
+        }
+        <br />
+        @using (Html.BeginForm("About", "Data"))
+        {
+            <button type="submit">About</button>
+        }
+        <br />
+        @using (Html.BeginForm("Help", "Data"))
+        {
+            <button type="submit">Help</button>
+        }
+
+        <br />
+        @using (Html.BeginForm("MainMenu", "Data"))
+        {
+            <button type="submit">Back</button>
+        }
+       <br />
+
+    </div>
+</body>
+</html>

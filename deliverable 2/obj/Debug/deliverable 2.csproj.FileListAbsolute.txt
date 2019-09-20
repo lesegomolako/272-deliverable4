@@ -1,0 +1,263 @@
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Antlr3.Runtime.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\EntityFramework.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\EntityFramework.SqlServer.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Google.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Web.Infrastructure.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Newtonsoft.Json.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Owin.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.Helpers.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.Mvc.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.Optimization.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.Razor.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.WebPages.Deployment.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.WebPages.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.WebPages.Razor.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\WebGrease.dll
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.Helpers.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.Mvc.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.Optimization.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.Razor.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.WebPages.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.WebPages.Deployment.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\System.Web.WebPages.Razor.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Antlr3.Runtime.pdb
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Newtonsoft.Json.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\EntityFramework.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\EntityFramework.SqlServer.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Google.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\272 project stuff\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\272 project stuff\deliverable 2\deliverable 2\obj\Debug\deliverable 2.csprojResolveAssemblyReference.cache
+E:\272 project stuff\deliverable 2\deliverable 2\obj\Debug\deliverable 2.dll
+E:\272 project stuff\deliverable 2\deliverable 2\obj\Debug\deliverable 2.pdb
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\csc.exe
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\vbc.exe
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\VBCSCompiler.exe
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\deliverable 2.dll.config
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\deliverable 2.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\deliverable 2.pdb
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Antlr3.Runtime.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\EntityFramework.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\EntityFramework.SqlServer.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Newtonsoft.Json.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Owin.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.Helpers.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.Mvc.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.Optimization.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.Razor.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.WebPages.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.WebPages.Razor.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\WebGrease.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.Helpers.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.Mvc.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.Optimization.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.Razor.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.WebPages.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\System.Web.WebPages.Razor.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Antlr3.Runtime.pdb
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Newtonsoft.Json.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\EntityFramework.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\EntityFramework.SqlServer.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\obj\Debug\deliverable 2.csprojResolveAssemblyReference.cache
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\obj\Debug\deliverable 2.dll
+C:\Users\u18198059\Downloads\deliverable 2\deliverable 2\obj\Debug\deliverable 2.pdb
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\csc.exe
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\System.Collections.Immutable.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\System.Reflection.Metadata.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\vbc.exe
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\VBCSCompiler.exe
+E:\deliverable 2(prototype)\deliverable 2\bin\roslyn\VBCSCompiler.exe.config
+E:\deliverable 2(prototype)\deliverable 2\bin\deliverable 2.dll.config
+E:\deliverable 2(prototype)\deliverable 2\bin\deliverable 2.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\deliverable 2.pdb
+E:\deliverable 2(prototype)\deliverable 2\bin\Antlr3.Runtime.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\EntityFramework.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\EntityFramework.SqlServer.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Google.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Web.Infrastructure.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Newtonsoft.Json.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Owin.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.Helpers.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.Mvc.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.Optimization.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.Razor.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.Deployment.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.Razor.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\WebGrease.dll
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.Helpers.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.Mvc.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.Optimization.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.Razor.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.Deployment.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.Razor.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Antlr3.Runtime.pdb
+E:\deliverable 2(prototype)\deliverable 2\bin\Newtonsoft.Json.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\EntityFramework.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\EntityFramework.SqlServer.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Google.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\deliverable 2(prototype)\deliverable 2\obj\Debug\deliverable 2.csprojResolveAssemblyReference.cache
+E:\deliverable 2(prototype)\deliverable 2\obj\Debug\deliverable 2.dll
+E:\deliverable 2(prototype)\deliverable 2\obj\Debug\deliverable 2.pdb
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\csc.exe
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\System.Collections.Immutable.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\System.Reflection.Metadata.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\vbc.exe
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\VBCSCompiler.exe
+E:\272\deliverable 2(prototype)\deliverable 2\bin\roslyn\VBCSCompiler.exe.config
+E:\272\deliverable 2(prototype)\deliverable 2\bin\deliverable 2.dll.config
+E:\272\deliverable 2(prototype)\deliverable 2\bin\deliverable 2.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\deliverable 2.pdb
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Antlr3.Runtime.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\EntityFramework.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\EntityFramework.SqlServer.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Google.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Web.Infrastructure.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Newtonsoft.Json.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Owin.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.Helpers.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.Mvc.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.Optimization.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.Razor.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.Deployment.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.Razor.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\WebGrease.dll
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.Helpers.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.Mvc.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.Optimization.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.Razor.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.Deployment.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\System.Web.WebPages.Razor.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Antlr3.Runtime.pdb
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Newtonsoft.Json.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\EntityFramework.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\EntityFramework.SqlServer.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Google.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\272\deliverable 2(prototype)\deliverable 2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\272\deliverable 2(prototype)\deliverable 2\obj\Debug\deliverable 2.csprojResolveAssemblyReference.cache
+E:\272\deliverable 2(prototype)\deliverable 2\obj\Debug\deliverable 2.dll
+E:\272\deliverable 2(prototype)\deliverable 2\obj\Debug\deliverable 2.pdb
+E:\272\deliverable 2(prototype)\deliverable 2\obj\Debug\deliverable_2.Views.Resource1.resources
+E:\272\deliverable 2(prototype)\deliverable 2\obj\Debug\deliverable 2.csproj.GenerateResource.Cache

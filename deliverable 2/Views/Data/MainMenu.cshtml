@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MainMenu</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="DIV"> 
+        <h1>Main Menu</h1>
+        @using (Html.BeginForm("SubjectContent", "Data"))
+        {
+            <button type="submit">Subject Content</button>
+        }
+        <br />
+        @using (Html.BeginForm("Activity", "Data"))
+        {
+            <button type="submit">Activities</button>
+        }
+        <br />
+        @using (Html.BeginForm("Quiz", "Data"))
+        {
+            <button type="submit">Quizes</button>
+        }
+        <br />
+        @using (Html.BeginForm("PM", "Data"))
+        {        
+             <button type="submit">Progress Marks</button>
+        }
+        <br />
+        @using (Html.BeginForm("Settings", "Data"))
+        {
+            <button type="submit">Settings</button>
+        }
+        <br />
+
+    </div>
+</body>
+</html>

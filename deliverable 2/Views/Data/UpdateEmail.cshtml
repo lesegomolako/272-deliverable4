@@ -1,0 +1,34 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UpdateEmail</title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="DIV"> 
+        <h1>Update Email</h1>
+
+        <label>Current Email:</label><input type="text" />
+        <br />
+        <label>New Email:</label><input type="text" />
+        <br />
+        <label>Confirm Email:</label><input type="text" />
+        <br />
+        <a href="@Url.Action("Account","Data")">Back to account page</a>
+        <br />
+        @using (Html.BeginForm("Account", "Data"))
+        {
+            <button type="submit">Update</button>
+        }
+        <br />
+
+    </div>
+</body>
+</html>
